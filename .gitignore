@@ -1,0 +1,9 @@
+*
+
+!skel
+!skel/**/*
+!cleanup.sh
+!PKGBUILD
+!.gitignore
+!README.md
+!LICENSE
